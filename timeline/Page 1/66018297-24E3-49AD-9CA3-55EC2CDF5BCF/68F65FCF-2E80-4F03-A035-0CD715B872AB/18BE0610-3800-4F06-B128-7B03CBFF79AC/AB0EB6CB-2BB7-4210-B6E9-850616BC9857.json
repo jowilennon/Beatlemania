@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AB0EB6CB-2BB7-4210-B6E9-850616BC9857",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 414,
+    "x": 0,
+    "y": 130
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "a with",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D3EEE879-A5CC-440B-B68F-C6FE919547E6",
+      "overrideName": "D6D1BBC5-1A2F-4DF0-B792-5392C189DF68_stringValue",
+      "value": "With the Beatles"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "64F181B9-23D9-453C-A4A1-38E4FC21479A",
+      "overrideName": "5D5A0945-D2D8-4662-ACD4-918A0F70CCF7_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/479bdd5e9bfcdf1ac26418b47bbdf692ae2c1003",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "5D5A0945-D2D8-4662-ACD4-918A0F70CCF7": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/479bdd5e9bfcdf1ac26418b47bbdf692ae2c1003",
+      "_ref_class": "MSImageData"
+    },
+    "D6D1BBC5-1A2F-4DF0-B792-5392C189DF68": "With the Beatles"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A941C432-1662-45D4-8C1C-715B0B398EB3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

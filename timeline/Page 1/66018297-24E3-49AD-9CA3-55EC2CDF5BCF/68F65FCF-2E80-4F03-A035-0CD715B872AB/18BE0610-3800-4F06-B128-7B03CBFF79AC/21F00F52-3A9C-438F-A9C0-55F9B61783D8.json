@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "21F00F52-3A9C-438F-A9C0-55F9B61783D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 414,
+    "x": 0,
+    "y": 1320
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "a yellow",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "82352F91-C023-457F-B676-42615CFDD89C",
+      "overrideName": "A4F672D8-7E9B-433C-BB78-55F75458D32E_stringValue",
+      "value": "1969"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD42ADD0-24E7-46DB-A517-4D5751A155F9",
+      "overrideName": "D6D1BBC5-1A2F-4DF0-B792-5392C189DF68_stringValue",
+      "value": "Yellow Submarine"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0FECA053-DB6D-4D29-8108-4226A271D993",
+      "overrideName": "5D5A0945-D2D8-4662-ACD4-918A0F70CCF7_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f6d9788b048dfe12b4b371ef5a4452fd8d419fda",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "5D5A0945-D2D8-4662-ACD4-918A0F70CCF7": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/f6d9788b048dfe12b4b371ef5a4452fd8d419fda",
+      "_ref_class": "MSImageData"
+    },
+    "A4F672D8-7E9B-433C-BB78-55F75458D32E": "1969",
+    "D6D1BBC5-1A2F-4DF0-B792-5392C189DF68": "Yellow Submarine"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A941C432-1662-45D4-8C1C-715B0B398EB3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

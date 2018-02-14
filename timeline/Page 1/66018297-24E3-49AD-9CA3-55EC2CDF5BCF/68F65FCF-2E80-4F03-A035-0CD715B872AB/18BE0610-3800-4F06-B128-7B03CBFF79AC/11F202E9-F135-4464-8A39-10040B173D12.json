@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "11F202E9-F135-4464-8A39-10040B173D12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 414,
+    "x": 0,
+    "y": 390
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "a sale",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "138EE03A-FC3B-4544-ADAA-C69698580FFA",
+      "overrideName": "A4F672D8-7E9B-433C-BB78-55F75458D32E_stringValue",
+      "value": "1964"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4E062A1D-85B7-4FA6-9D1E-1E25F9FA6DCF",
+      "overrideName": "D6D1BBC5-1A2F-4DF0-B792-5392C189DF68_stringValue",
+      "value": "Beatles for Sale"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5D5C38F-D567-4475-90C2-D101F3C7BA6E",
+      "overrideName": "5D5A0945-D2D8-4662-ACD4-918A0F70CCF7_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ca7f1a8dfcc6c7c2f7509b0c4c059078e4e9f581",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "5D5A0945-D2D8-4662-ACD4-918A0F70CCF7": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/ca7f1a8dfcc6c7c2f7509b0c4c059078e4e9f581",
+      "_ref_class": "MSImageData"
+    },
+    "A4F672D8-7E9B-433C-BB78-55F75458D32E": "1964",
+    "D6D1BBC5-1A2F-4DF0-B792-5392C189DF68": "Beatles for Sale"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A941C432-1662-45D4-8C1C-715B0B398EB3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

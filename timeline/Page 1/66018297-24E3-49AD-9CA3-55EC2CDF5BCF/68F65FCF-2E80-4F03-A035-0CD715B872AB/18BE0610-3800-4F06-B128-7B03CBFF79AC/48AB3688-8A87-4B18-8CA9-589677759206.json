@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "48AB3688-8A87-4B18-8CA9-589677759206",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 150,
+    "width": 414,
+    "x": 0,
+    "y": 910
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "a sgt",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5617B525-5277-4878-BFFE-5EDE2D8232F4",
+      "overrideName": "9A07EBFD-A53D-4B23-8CDB-956192ABFDE1_stringValue",
+      "value": "Sgt. Pepper's Lonely Hearts Club Band"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "99CFA1D5-3FB6-444B-A10D-2E42679A3F14",
+      "overrideName": "F8BF9775-2FE5-4C3A-9871-BC86D50CF713_stringValue",
+      "value": "1967"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4EA64EAD-41B0-42A8-BFC9-6213FE762365",
+      "overrideName": "B1C51973-E166-4861-AE7E-8BCA4E659FA4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/48b4b76a1c6516ed51745f4c364ed2c4915c7280",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "9A07EBFD-A53D-4B23-8CDB-956192ABFDE1": "Sgt. Pepper's Lonely Hearts Club Band",
+    "B1C51973-E166-4861-AE7E-8BCA4E659FA4": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/48b4b76a1c6516ed51745f4c364ed2c4915c7280",
+      "_ref_class": "MSImageData"
+    },
+    "F8BF9775-2FE5-4C3A-9871-BC86D50CF713": "1967"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0EB98D92-6D46-44B0-B704-2A1E87CE8C06",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
